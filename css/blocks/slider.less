@@ -1,0 +1,119 @@
+.slider {
+  overflow: hidden;
+  position: relative;
+  .catalog-menu {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: calc(~'(100% - 1140px)/2');
+    z-index: 10;
+  }
+  .slide-prev, .slide-next {
+    z-index: 15;
+  }
+  .slick-track {
+    max-height: 510px;
+  }
+  .slider__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+    display: none;
+  }
+  .slick-active {
+    .slider__bg {
+      display: block;
+    }
+  }
+  .slick-dots {
+    bottom: 21px;
+    li {
+      &.slick-active {
+        button {
+          background: fade(@accentColor, 80%);
+        }
+      }
+      button {
+        border-radius: 50%;
+        background: fade(@white, 40%);
+        &:before {
+          display: none;
+        }
+        &:hover {
+          background: fade(@accentColor, 100%);
+        }
+      }
+    }
+  }
+  .slick-prev {
+    left: 25px;
+    &:before {
+      content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='10' height='16' viewBox='0 0 10 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.09473 1.86111L2.87609 8.19473L9.09473 14.5283L7.79344 15.8537L0.273517 8.19473L7.79344 0.535767L9.09473 1.86111Z' fill='white'/%3e%3c/svg%3e ");
+      opacity: 1;
+    }
+  }
+  .slick-prev,
+  .slick-next {
+    background: fade(@textColor, 40);
+    opacity: unset;
+    border-radius: 2px;
+    right: 25px;
+    z-index: 15;
+    width: 38px;
+    height: 38px;
+    &:hover {
+      background: fade(@accentColor, 80);
+    }
+
+  }
+  .slick-next {
+    &:before {
+      content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='10' height='16' viewBox='0 0 10 16' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.905273 1.86111L7.12391 8.19473L0.905273 14.5283L2.20656 15.8537L9.72648 8.19473L2.20656 0.535767L0.905273 1.86111Z' fill='white'/%3e%3c/svg%3e ");
+      opacity: 1;
+    }
+  }
+
+}
+
+.slider__item {
+  position: relative;
+  &-wide {
+    width: 100%;
+    max-width: 1920px;
+  }
+  margin: 0 auto;
+  &-textbox {
+    max-width: 474px;
+    width: 100%;
+    color: #A02122;
+  }
+  &-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 50px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-left: 270px;
+  }
+  &-desc {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    max-width: 700px;
+    width: 100%;
+  }
+}
+
+.slider__img {
+  background-repeat: no-repeat;
+  background-position: top center;
+  height: 510px;
+  width: 100%;
+  background-size: cover;
+}

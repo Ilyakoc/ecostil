@@ -1,0 +1,41 @@
+<?php
+use common\components\helpers\HHtml;
+
+/** @var \settings\modules\admin\controllers\DefaultController $this */
+/** @var \settings\components\base\SettingsModel $model */
+use common\components\helpers\HYii as Y;
+use common\components\helpers\HArray as A;
+
+$tbtn=Y::ct('CommonModule.btn', 'common');
+?>
+<?= HHtml::onReady('js-form-box', ['message'=>'Подождите, идет загрузка страницы настроек...']); ?>
+<div class="form js-form-box" style="display:none">
+<? 
+	$form=$this->beginWidget('\CActiveForm', [
+		'id'=>'settings-form',
+		'enableClientValidation'=>true,
+		'clientOptions'=>[
+			'validateOnSubmit'=>true,
+			'validateOnChange'=>false
+		],
+		// 'htmlOptions'=>['enctype'=>'multipart/form-data'],
+	]); 
+	
+	echo $form->errorSummary($model); 
+	
+	$this->widget('zii.widgets.jui.CJuiTabs', [
+		'tabs'=>[
+			'Основые'=>['content'=>$this->renderPartial('_shop_form_main', compact('model', 'form'), true), 'id'=>'tab-main'],
+			'SEO'=>['content'=>$this->renderPartial('_shop_form_seo', compact('model', 'form'), true), 'id'=>'tab-seo']
+		],
+		'options'=>[]
+	]);
+	?>
+	<div class="row buttons">
+      <div class="left">
+        <?= CHtml::submitButton($tbtn('save'), ['class'=>'btn btn-primary']); ?>
+      </div>
+      <div class="clr"></div>
+    </div>
+	<? $this->endWidget(); ?>
+</div>

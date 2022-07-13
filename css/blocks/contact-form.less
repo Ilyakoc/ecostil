@@ -1,0 +1,74 @@
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  width: 824px;
+  .contact-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    &.contact-row-last {
+      margin-top: 20px;
+    }
+  }
+
+  .contact-col {
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    &:last-child {
+      margin-left: 10px;
+    }
+    .contact-text-input {
+      margin-bottom: 10px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+  .cbHead p {
+    margin-bottom: 19px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 1.33;
+    text-align: center;
+    color: #434343;
+  }
+  .error {
+    input[type="text"], textarea {
+      border: 1px solid #f00 !important;
+    }
+    label {
+      color: #f00;
+    }
+  }
+  textarea {
+    min-height: 96px;
+    resize: vertical;
+  }
+  input[type="text"], textarea {
+    background: transparent;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 13px 24px;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    &:focus {
+      border-color: @primaryColor;
+    }
+
+    &::placeholder {
+      color: #C4C4C4;
+      font-size: 14px;
+      line-height: 19px;
+    }
+  }
+}

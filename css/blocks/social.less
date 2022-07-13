@@ -1,0 +1,57 @@
+.social {
+  display: flex;
+  margin-left: -5px;
+  margin-right: -5px;
+
+  &--footer {
+    .social__link {
+      background-color: transparent;
+      border: 1px solid @white;
+      &:hover {
+
+        svg {
+          fill: @white;
+        }
+      }
+    }
+  }
+}
+
+.social__link {
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid @primaryColor;
+  background-color: @primaryColor;
+  &:hover {
+    transition: 0.35s ease all;
+  }
+  &-vk:hover {
+    border: 1px solid #2787F5;
+    background-color: #2787F5;
+  }
+
+  &-odnoklassniki:hover {
+    border: 1px solid #EE8208;
+    background-color: #EE8208;
+  }
+
+  &-instagram:hover {
+    border: none;
+    background: linear-gradient(359.28deg, #FFC107 -1.86%, #F44336 48.83%, #9C27B0 97.13%);
+  }
+
+  &-facebook:hover {
+    border: 1px solid #395693;
+    background-color: #395693;
+  }
+
+  svg {
+    fill: @white;
+  }
+}

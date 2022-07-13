@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#fancybox-question-add-form {
+	width: 100%;
+	max-width: 380px;
+	min-height: 300px;
+}
+#fancybox-question-add-form .wrap{
+}
+#fancybox-question-add-form .response__success {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 200px;
+	width: 100%;
+}
+#fancybox-question-add-form .response__success h2 {
+	text-align: center;
+	font-family: Lato, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+}
+#fancybox-question-add-form .response__success p {
+	text-align: center;
+	font-family: Roboto, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+}
+#fancybox-question-add-form textarea {
+	width: 100%;
+}
+
+#fancybox-question-add-form .errorMessage {
+	display: none !important;
+}

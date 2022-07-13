@@ -1,0 +1,29 @@
+@media (max-width: 576px) {
+  .question__header {
+    display: block;
+  }
+
+  .question__title {
+    margin-bottom: 0 !important;
+  }
+
+  .question__list {
+    margin-top: 15px;
+    .question-item {
+      .question-item__answer,
+      .question-item__question {
+        flex-direction: column;
+        padding: 20px;
+      }
+    }
+  }
+
+  .question__icon {
+    order: 1;
+  }
+  .question__list .question-item .question-item__answer .question-item__content,
+  .question-item__content {
+    margin-right: 15px;
+    order: 2;
+  }
+}

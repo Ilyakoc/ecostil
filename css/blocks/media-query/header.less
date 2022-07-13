@@ -1,0 +1,128 @@
+@media (max-width: 1200px) {
+    .mm-listview {
+        li {
+            a[href="/question"],
+            a[href="/reviews"],
+            a[href="/sale"],
+            a[href="/gallery"] {
+                display: none;
+            }
+        }
+    }
+  .header-bottom__hamburger {
+    display: block;
+    margin-right: 5px;
+    margin-left: -15px;
+  }
+
+  .header-bottom__menu {
+    display: none;
+  }
+  .header-bottom__row {
+    width: 100%;
+    flex: 1;
+  }
+}
+
+@media (max-width: 992px) {
+  .header-bottom__phones {
+    .phone {
+      padding-top: 0;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+    .header-bottom__messengers {
+        display: block;
+    }
+  .header-bottom__right {
+    //padding-right: 0;
+  }
+  .header-bottom--type-1 {
+    .header-bottom__search {
+      display: none !important;
+    }
+    .header-bottom__phone--ico {
+      display: none !important;
+    }
+  }
+
+  .header-bottom--type-2 {
+    .header-bottom__messengers {
+      display: flex !important;
+      align-items: center;
+    }
+    .header-bottom__phone {
+      display: none !important;
+    }
+    .header-bottom__phone--ico {
+      display: block !important;
+    }
+  }
+
+  .header-bottom__slogan {
+    display: none;
+  }
+
+  .header-bottom__container {
+    padding-top: 2px;
+    padding-bottom: 5px;
+    height: 44px;
+  }
+
+  .header-bottom__search {
+    margin-left: 7px;
+  }
+
+  .header-bottom__phones {
+    padding-top: 2px;
+    display: flex;
+    align-items: center;
+  }
+
+  .header-bottom__hamburger {
+    margin-left: -10px;
+  }
+  .header .phone--ico .phone__ico {
+      margin-right: 0;
+  }
+}
+@media (max-width: 1200px) {
+  .header-top__column {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 992px) {
+  .header-top {
+    padding-bottom: 0;
+  }
+
+  .header-top__row {
+    margin-left: -15px;
+    margin-right: -15px;
+    justify-content: space-between;
+  }
+
+  .header-top__column {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .header-top__social {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-top {
+    display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .header-top__feedback {
+    display: none;
+  }
+}

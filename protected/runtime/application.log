@@ -1,0 +1,1663 @@
+2022/06/22 21:15:18 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 21:29:18 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 21:43:02 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 21:57:00 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:01:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:15:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:21:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:21:25 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/22 22:21:25 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/22 22:21:25 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/22 22:21:26 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/22 22:21:26 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/22 22:29:02 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:43:32 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 22:57:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 23:01:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 23:15:07 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 23:29:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 23:33:36 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/22 23:43:08 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 00:00:35 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 00:16:45 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 00:33:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 00:48:20 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:06:34 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:17:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:29:13 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:33:39 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:43:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 01:57:15 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 02:01:10 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 02:06:43 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 02:06:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/23 02:06:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 02:06:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/23 02:06:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 02:06:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 02:18:33 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 02:43:28 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 02:47:40 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 03:00:36 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 03:15:59 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 03:31:58 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 03:43:24 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 03:57:41 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 04:01:28 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 04:15:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 04:29:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 04:43:17 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 04:57:08 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:01:17 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:16:49 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:26:45 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:26:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/23 05:26:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 05:26:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/23 05:26:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 05:26:46 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 05:27:08 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:29:13 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:36:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:43:09 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:44:44 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:44:47 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:51:33 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:57:03 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 05:58:24 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:01:29 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:03:28 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:05:07 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:08:02 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:09:34 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in /var/www/cr93892/data/www/yii/yiilite.php:4087
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(7080): CController->filterAjaxOnly(Object(CFilterChain))
+#1 /var/www/cr93892/data/www/yii/yiilite.php(7035): CInlineFilter->filter(Object(CFilterChain))
+#2 /var/www/cr93892/data/www/yii/yiilite.php(7047): CFilterChain->run()
+#3 /var/www/cr93892/data/www/yii/yiilite.php(7035): CFilter->filter(Object(CFilterChain))
+#4 /var/www/cr93892/data/www/yii/yiilite.php(3705): CFilterChain->run()
+#5 /var/www/cr93892/data/www/yii/yiilite.php(3690): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/cr93892/data/www/yii/yiilite.php(1799): CController->run('addQuestion')
+#7 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('question/addQue...')
+#8 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#9 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/question/addQuestion
+HTTP_REFERER=https://ecostil-prestizh.ru/question
+---
+2022/06/23 06:11:53 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:13:08 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:14:21 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:15:00 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:19:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:29:24 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:43:11 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:46:37 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 06:57:44 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:01:04 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:02:46 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:07:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:12:10 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:14:54 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:15:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:26:06 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:29:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:43:51 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 07:57:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:01:22 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:16:54 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:24:05 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:29:32 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:42:36 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:42:39 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/23 08:42:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 08:42:40 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/23 08:42:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 08:42:41 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 08:43:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 08:57:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 09:01:15 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 09:15:34 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 09:29:28 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 09:43:13 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 09:57:07 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:01:06 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:17:20 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:29:11 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:40:55 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:40:56 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:40:58 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:43:19 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in /var/www/cr93892/data/www/yii/yiilite.php:4087
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(7080): CController->filterAjaxOnly(Object(CFilterChain))
+#1 /var/www/cr93892/data/www/yii/yiilite.php(7035): CInlineFilter->filter(Object(CFilterChain))
+#2 /var/www/cr93892/data/www/yii/yiilite.php(7047): CFilterChain->run()
+#3 /var/www/cr93892/data/www/yii/yiilite.php(7035): CFilter->filter(Object(CFilterChain))
+#4 /var/www/cr93892/data/www/yii/yiilite.php(3705): CFilterChain->run()
+#5 /var/www/cr93892/data/www/yii/yiilite.php(3690): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/cr93892/data/www/yii/yiilite.php(1799): CController->run('addQuestion')
+#7 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('question/addQue...')
+#8 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#9 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/question/addQuestion
+HTTP_REFERER=https://ecostil-prestizh.ru/question
+---
+2022/06/23 10:43:22 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 10:57:18 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:01:21 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:06:36 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:07:04 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:17:40 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:30:31 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:45:52 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:57:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:57:35 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 11:57:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/23 11:57:35 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 11:57:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/23 11:57:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 11:57:36 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 12:01:15 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 12:17:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 12:18:41 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 12:51:02 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 12:57:29 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 12:58:09 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:05:29 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:09:51 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:10:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:13 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:15 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('jfhjkdshfdsfkjh...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+---
+2022/06/23 13:11:15 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:16 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 13:11:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:20 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:11:27 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:14:18 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml
+---
+2022/06/23 13:14:22 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:14:39 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:14:39 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:26:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:32:48 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:33:09 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:38:03 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:38:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:39:44 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:40:11 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:40:14 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:30 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('jfhjkdshfdsfkjh...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+---
+2022/06/23 13:42:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:31 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 13:42:33 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:39 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:42:44 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:46:08 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml
+---
+2022/06/23 13:48:03 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:49:03 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:51:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:19 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('jfhjkdshfdsfkjh...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+---
+2022/06/23 13:54:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:20 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:21 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:23 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 13:54:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:29 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:54:34 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:56:13 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 13:57:36 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:58:50 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('jfhjkdshfdsfkjh...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+---
+2022/06/23 13:58:51 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:58:51 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:58:51 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:58:52 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 13:58:53 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:58:57 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 13:59:01 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:00:19 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml
+---
+2022/06/23 14:01:48 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:03:45 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:16:16 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:16:56 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('jfhjkdshfdsfkjh...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/jfhjkdshfdsfkjhdjfdjfhjskdhfeuwfewifhhdfjkfhkdjhfsdjkfhdjkfhdkfhdfhk
+---
+2022/06/23 14:16:56 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:16:56 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:16:57 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:16:57 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 14:17:00 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:17:09 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:17:15 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:18:51 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "sitemap.txt". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('sitemap.txt')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/sitemap.txt
+HTTP_REFERER=https://ecostil-prestizh.ru/sitemap_index.xml.gz
+---
+2022/06/23 14:29:27 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:44:25 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:50:57 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 14:57:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:01:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:03:26 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:03:26 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel: 79132256528". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel: 7913225652...')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:+79132256528
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:+79132256528
+---
+2022/06/23 15:03:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 15:03:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "tel:". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('tel:')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/tel:
+HTTP_REFERER=https://ecostil-prestizh.ru/tel:
+---
+2022/06/23 15:03:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 15:03:27 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "javascript:;". in /var/www/cr93892/data/www/yii/yiilite.php:1803
+Stack trace:
+#0 /var/www/cr93892/data/www/yii/yiilite.php(1719): CWebApplication->runController('javascript:;')
+#1 /var/www/cr93892/data/www/yii/yiilite.php(1236): CWebApplication->processRequest()
+#2 /var/www/cr93892/data/www/ecostil-prestizh.ru/index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/javascript:;
+HTTP_REFERER=https://ecostil-prestizh.ru/javascript:;
+---
+2022/06/23 15:15:07 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:29:12 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:43:58 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 15:57:30 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:01:24 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:18:00 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:20:17 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:29:55 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:41:09 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:43:33 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 16:57:19 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 17:01:25 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 17:15:21 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/23 17:29:23 [error] [application] Path not found: /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/assets/slider
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/helpers/HYii.php (245)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/common/components/base/Widget.php (159)
+in /var/www/cr93892/data/www/ecostil-prestizh.ru/protected/modules/extend/modules/slider/widgets/Slider.php (130)
+2022/06/27 10:40:04 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/27 10:40:05 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/27 10:40:13 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/27 11:34:04 [error] [exception.Error] Error: Call to a member function getSrc() on null in C:\OSPanel\domains\ecostil-prestizh.local\protected\views\shop\product.php:161
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\yii\yiilite.php(3911): CController->renderPartial('product', Array, true)
+#4 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(98): CController->render('product', Array)
+#5 [internal function]: ShopController->actionProduct('32')
+#6 C:\OSPanel\domains\yii\yiilite.php(4160): ReflectionMethod->invokeArgs(Object(ShopController), Array)
+#7 C:\OSPanel\domains\yii\yiilite.php(4177): CAction->runWithParamsInternal(Object(ShopController), Object(ReflectionMethod), Array)
+#8 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#9 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#10 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#11 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#12 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#13 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#15 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#16 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#17 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#18 {main}
+REQUEST_URI=/catalog/zhenskaya-odezhda/leto-2021/bluza-valensole
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/leto-2021
+---
+2022/06/27 12:48:48 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in C:\OSPanel\domains\yii\yiilite.php:3704
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3692): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#2 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#3 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#4 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#7 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#8 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#9 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/shop/product?category_id=15
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/leto-2021
+---
+2022/06/27 12:49:15 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in C:\OSPanel\domains\yii\yiilite.php:3704
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3692): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#2 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#3 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#4 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#7 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#8 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#9 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/shop/product?category_id=15
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/leto-2021
+---
+2022/06/27 13:07:35 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in C:\OSPanel\domains\yii\yiilite.php:3704
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3692): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#2 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#3 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#4 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#7 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#8 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#9 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/shop/product?category_id=15
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/leto-2021
+---
+2022/06/27 13:34:59 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/27 14:02:28 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in C:\OSPanel\domains\yii\yiilite.php:3704
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3692): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#2 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#3 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#4 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#7 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#8 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#9 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/shop/product?category_id=24
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/muzhskaya-odezhda/dzhempera-kardegany-zhilety
+---
+2022/06/27 16:43:18 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/27 17:41:19 [error] [exception.CHttpException.400] CHttpException: Некорректный запрос. in C:\OSPanel\domains\yii\yiilite.php:3704
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3692): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#2 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#3 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#4 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('product')
+#7 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/product')
+#8 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#9 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#10 {main}
+REQUEST_URI=/shop/product?category_id=15
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/leto-2021
+---
+2022/06/30 10:13:51 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/06/30 10:32:16 [error] [exception.CException] CException: В классе Category и его поведениях не найден метод или замыкание с именем "getMax". in C:\OSPanel\domains\yii\yiilite.php:714
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(7525): CComponent->__call('getMax', Array)
+#1 C:\OSPanel\domains\ecostil-prestizh.local\protected\widget\filters\AFilters.php(45): CActiveRecord->__call('getMax', Array)
+#2 C:\OSPanel\domains\yii\yiilite.php(3565): AFilters->run()
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\views\shop\category.php(12): CBaseController->widget('widget.filters....')
+#4 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#6 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#7 C:\OSPanel\domains\yii\yiilite.php(3911): CController->renderPartial('category', Array, true)
+#8 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(66): CController->render('category', Array)
+#9 [internal function]: ShopController->actionCategory('1')
+#10 C:\OSPanel\domains\yii\yiilite.php(4160): ReflectionMethod->invokeArgs(Object(ShopController), Array)
+#11 C:\OSPanel\domains\yii\yiilite.php(4177): CAction->runWithParamsInternal(Object(ShopController), Object(ReflectionMethod), Array)
+#12 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#14 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#15 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#16 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#17 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('category')
+#19 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/category')
+#20 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#21 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#22 {main}
+REQUEST_URI=/catalog/zhenskaya-odezhda
+HTTP_REFERER=http://ecostil-prestizh.local/
+---
+2022/06/30 10:57:19 [error] [exception.CException] CException: Контроллер ShopController не может найти представление "_form_product_withproduct". in C:\OSPanel\domains\yii\yiilite.php:3952
+Stack trace:
+#0 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\form_product_general.php(51): CController->renderPartial('_form_product_w...', Array, true)
+#1 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#2 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#4 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\productupdate.php(5): CController->renderPartial('form_product_ge...', Array)
+#5 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#7 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#8 C:\OSPanel\domains\yii\yiilite.php(3911): CController->renderPartial('productupdate', Array, true)
+#9 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\controllers\ShopController.php(400): CController->render('productupdate', Array)
+#10 [internal function]: ShopController->actionProductUpdate('21', NULL, false)
+#11 C:\OSPanel\domains\yii\yiilite.php(4160): ReflectionMethod->invokeArgs(Object(ShopController), Array)
+#12 C:\OSPanel\domains\yii\yiilite.php(4177): CAction->runWithParamsInternal(Object(ShopController), Object(ReflectionMethod), Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#14 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#15 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#16 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#17 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#18 C:\OSPanel\domains\yii\yiilite.php(4069): CFilter->filter(Object(CFilterChain))
+#19 C:\OSPanel\domains\yii\yiilite.php(7012): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\OSPanel\domains\yii\yiilite.php(6967): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#22 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('productUpdate')
+#24 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('admin/shop/prod...')
+#25 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#26 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#27 {main}
+REQUEST_URI=/cp/shop/productUpdate/21
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/index
+---
+2022/06/30 14:15:01 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "Searchproduct". in C:\OSPanel\domains\yii\yiilite.php:3789
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3671): CController->missingAction('Searchproduct')
+#1 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#2 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#3 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#4 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#5 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 14:23:59 [error] [exception.CHttpException.404] CHttpException: Системе не удалось найти запрашиваемое действие "Searchproduct". in C:\OSPanel\domains\yii\yiilite.php:3789
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3671): CController->missingAction('Searchproduct')
+#1 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#2 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#3 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#4 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#5 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 16:07:46 [error] [exception.Error] Error: Call to a member function getData() on null in C:\OSPanel\domains\ecostil-prestizh.local\protected\views\site\block\products.php:2
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(180): CController->renderPartial('/site/block/pro...', Array)
+#4 C:\OSPanel\domains\yii\yiilite.php(4178): ShopController->actionSearchproduct()
+#5 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#7 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#8 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#9 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#10 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#12 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#13 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#15 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 16:08:39 [error] [exception.Error] Error: Call to a member function getData() on null in C:\OSPanel\domains\ecostil-prestizh.local\protected\views\site\block\products.php:2
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(180): CController->renderPartial('/site/block/pro...', Array)
+#4 C:\OSPanel\domains\yii\yiilite.php(4178): ShopController->actionSearchproduct()
+#5 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#7 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#8 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#9 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#10 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#12 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#13 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#15 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 16:09:02 [error] [exception.Error] Error: Call to a member function getData() on null in C:\OSPanel\domains\ecostil-prestizh.local\protected\views\site\block\products.php:2
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(180): CController->renderPartial('/site/block/pro...', Array)
+#4 C:\OSPanel\domains\yii\yiilite.php(4178): ShopController->actionSearchproduct()
+#5 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#7 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#8 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#9 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#10 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#12 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#13 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#15 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 16:09:10 [error] [exception.Error] Error: Call to a member function getData() on null in C:\OSPanel\domains\ecostil-prestizh.local\protected\views\site\block\products.php:2
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(180): CController->renderPartial('/site/block/pro...', Array)
+#4 C:\OSPanel\domains\yii\yiilite.php(4178): ShopController->actionSearchproduct()
+#5 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#6 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#7 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#8 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#9 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#10 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Searchproduct')
+#12 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Searchprod...')
+#13 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#15 {main}
+REQUEST_URI=/shop/Searchproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 17:14:40 [error] [exception.ParseError] ParseError: syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\_form_product_withproduct.php:26
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#1 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\form_product_general.php(51): CController->renderPartial('_form_product_w...', Array, true)
+#3 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#4 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#5 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#6 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\productupdate.php(5): CController->renderPartial('form_product_ge...', Array)
+#7 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#8 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#9 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#10 C:\OSPanel\domains\yii\yiilite.php(3911): CController->renderPartial('productupdate', Array, true)
+#11 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\controllers\ShopController.php(400): CController->render('productupdate', Array)
+#12 [internal function]: ShopController->actionProductUpdate('21', NULL, false)
+#13 C:\OSPanel\domains\yii\yiilite.php(4160): ReflectionMethod->invokeArgs(Object(ShopController), Array)
+#14 C:\OSPanel\domains\yii\yiilite.php(4177): CAction->runWithParamsInternal(Object(ShopController), Object(ReflectionMethod), Array)
+#15 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#16 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#17 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#18 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#19 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#20 C:\OSPanel\domains\yii\yiilite.php(4069): CFilter->filter(Object(CFilterChain))
+#21 C:\OSPanel\domains\yii\yiilite.php(7012): CController->filterAccessControl(Object(CFilterChain))
+#22 C:\OSPanel\domains\yii\yiilite.php(6967): CInlineFilter->filter(Object(CFilterChain))
+#23 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#24 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#25 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('productUpdate')
+#26 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('admin/shop/prod...')
+#27 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#28 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#29 {main}
+REQUEST_URI=/cp/shop/productUpdate/21
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/06/30 17:25:00 [error] [exception.CException] CException: В классе CDbCriteria и его поведениях не найден метод или замыкание с именем "createCommand". in C:\OSPanel\domains\yii\yiilite.php:714
+Stack trace:
+#0 C:\OSPanel\domains\ecostil-prestizh.local\protected\controllers\ShopController.php(176): CComponent->__call('createCommand', Array)
+#1 C:\OSPanel\domains\yii\yiilite.php(4178): ShopController->actionAddproduct()
+#2 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#3 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#4 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#5 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#6 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#7 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('Addproduct')
+#9 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('shop/Addproduct')
+#10 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#11 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#12 {main}
+REQUEST_URI=/shop/Addproduct
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/productUpdate/21
+---
+2022/07/01 10:17:13 [error] [exception.CHttpException.404] CHttpException: Невозможно обработать запрос "cз". in C:\OSPanel\domains\yii\yiilite.php:1779
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('c\xD0\xB7')
+#1 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#2 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#3 {main}
+REQUEST_URI=/c%D0%B7
+---
+2022/07/01 10:33:04 [error] [exception.Error] Error: Call to a member function img() on array in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\_form_product_withproduct.php:23
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(3532): require()
+#1 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#2 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#3 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\form_product_general.php(51): CController->renderPartial('_form_product_w...', Array, true)
+#4 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#6 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#7 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\views\shop\productupdate.php(5): CController->renderPartial('form_product_ge...', Array)
+#8 C:\OSPanel\domains\yii\yiilite.php(3532): require('C:\\OSPanel\\doma...')
+#9 C:\OSPanel\domains\yii\yiilite.php(3511): CBaseController->renderInternal('C:\\OSPanel\\doma...', Array, true)
+#10 C:\OSPanel\domains\yii\yiilite.php(3943): CBaseController->renderFile('C:\\OSPanel\\doma...', Array, true)
+#11 C:\OSPanel\domains\yii\yiilite.php(3911): CController->renderPartial('productupdate', Array, true)
+#12 C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\admin\controllers\ShopController.php(400): CController->render('productupdate', Array)
+#13 [internal function]: ShopController->actionProductUpdate('21', NULL, false)
+#14 C:\OSPanel\domains\yii\yiilite.php(4160): ReflectionMethod->invokeArgs(Object(ShopController), Array)
+#15 C:\OSPanel\domains\yii\yiilite.php(4177): CAction->runWithParamsInternal(Object(ShopController), Object(ReflectionMethod), Array)
+#16 C:\OSPanel\domains\yii\yiilite.php(3691): CInlineAction->runWithParams(Array)
+#17 C:\OSPanel\domains\yii\yiilite.php(6970): CController->runAction(Object(CInlineAction))
+#18 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#19 C:\OSPanel\domains\yii\yiilite.php(6967): CFilter->filter(Object(CFilterChain))
+#20 C:\OSPanel\domains\yii\yiilite.php(6979): CFilterChain->run()
+#21 C:\OSPanel\domains\yii\yiilite.php(4069): CFilter->filter(Object(CFilterChain))
+#22 C:\OSPanel\domains\yii\yiilite.php(7012): CController->filterAccessControl(Object(CFilterChain))
+#23 C:\OSPanel\domains\yii\yiilite.php(6967): CInlineFilter->filter(Object(CFilterChain))
+#24 C:\OSPanel\domains\yii\yiilite.php(3681): CFilterChain->run()
+#25 C:\OSPanel\domains\yii\yiilite.php(3666): CController->runActionWithFilters(Object(CInlineAction), Array)
+#26 C:\OSPanel\domains\yii\yiilite.php(1775): CController->run('productUpdate')
+#27 C:\OSPanel\domains\yii\yiilite.php(1695): CWebApplication->runController('admin/shop/prod...')
+#28 C:\OSPanel\domains\yii\yiilite.php(1212): CWebApplication->processRequest()
+#29 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): CApplication->run()
+#30 {main}
+REQUEST_URI=/cp/shop/productUpdate/21
+HTTP_REFERER=http://ecostil-prestizh.local/cp/shop/index
+---
+2022/07/01 11:41:45 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/07/04 09:27:42 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ in C:\OSPanel\domains\yii\yiilite.php:8663
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(8635): CDbConnection->open()
+#1 C:\OSPanel\domains\yii\yiilite.php(8624): CDbConnection->setActive(true)
+#2 C:\OSPanel\domains\yii\yiilite.php(1080): CDbConnection->init()
+#3 C:\OSPanel\domains\yii\yiilite.php(1337): CModule->getComponent('db')
+#4 C:\OSPanel\domains\yii\yiilite.php(7680): CApplication->getDb()
+#5 C:\OSPanel\domains\yii\yiilite.php(7697): CActiveRecord->getDbConnection()
+#6 C:\OSPanel\domains\yii\yiilite.php(8203): CActiveRecord->getCommandBuilder()
+#7 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(256): CActiveRecord->exists('hidden>0 AND or...')
+#8 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(93): DApi->_registerTreemenu()
+#9 C:\OSPanel\domains\yii\yiilite.php(1080): DApi->init()
+#10 C:\OSPanel\domains\yii\yiilite.php(1147): CModule->getComponent('d')
+#11 C:\OSPanel\domains\yii\yiilite.php(1204): CModule->preloadComponents()
+#12 C:\OSPanel\domains\yii\yiilite.php(55): CApplication->__construct(Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(47): YiiBase::createApplication('CWebApplication', 'C:\\OSPanel\\doma...')
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): YiiBase::createWebApplication('C:\\OSPanel\\doma...')
+#15 {main}
+REQUEST_URI=/catalog/zhenskaya-odezhda/verxnyaya-odezhda
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda?p=8&s=price.d
+---
+2022/07/07 17:56:44 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'ecostil_pres_usr'@'localhost' (using password: YES) in C:\OSPanel\domains\yii\yiilite.php:8663
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(8635): CDbConnection->open()
+#1 C:\OSPanel\domains\yii\yiilite.php(8624): CDbConnection->setActive(true)
+#2 C:\OSPanel\domains\yii\yiilite.php(1080): CDbConnection->init()
+#3 C:\OSPanel\domains\yii\yiilite.php(1337): CModule->getComponent('db')
+#4 C:\OSPanel\domains\yii\yiilite.php(7680): CApplication->getDb()
+#5 C:\OSPanel\domains\yii\yiilite.php(7697): CActiveRecord->getDbConnection()
+#6 C:\OSPanel\domains\yii\yiilite.php(8203): CActiveRecord->getCommandBuilder()
+#7 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(256): CActiveRecord->exists('hidden>0 AND or...')
+#8 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(93): DApi->_registerTreemenu()
+#9 C:\OSPanel\domains\yii\yiilite.php(1080): DApi->init()
+#10 C:\OSPanel\domains\yii\yiilite.php(1147): CModule->getComponent('d')
+#11 C:\OSPanel\domains\yii\yiilite.php(1204): CModule->preloadComponents()
+#12 C:\OSPanel\domains\yii\yiilite.php(55): CApplication->__construct(Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(47): YiiBase::createApplication('CWebApplication', 'C:\\OSPanel\\doma...')
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): YiiBase::createWebApplication('C:\\OSPanel\\doma...')
+#15 {main}
+REQUEST_URI=/catalog/zhenskaya-odezhda/verxnyaya-odezhda/kurtka-ql-58
+HTTP_REFERER=http://ecostil-prestizh.local/catalog/zhenskaya-odezhda/verxnyaya-odezhda?ajax=ajaxListView&data=%5B%7B%22name%22%3A%22_method%22%2C%22value%22%3A%22%22%7D%2C%7B%22name%22%3A%227%22%2C%22value%22%3A%22%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%22%7D%2C%7B%22name%22%3A%228%22%2C%22value%22%3A%22none%22%7D%2C%7B%22name%22%3A%229%22%2C%22value%22%3A%22none%22%7D%2C%7B%22name%22%3A%2210%22%2C%22value%22%3A%22%D0%9A%D1%80%D1%8E%D1%87%D0%BA%D0%B8%22%7D%2C%7B%22name%22%3A%222%22%2C%22value%22%3A%22none%22%7D%5D&price_from=&price_to=1000
+---
+2022/07/08 09:38:32 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'ecostil_pres_usr'@'localhost' (using password: YES) in C:\OSPanel\domains\yii\yiilite.php:8663
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(8635): CDbConnection->open()
+#1 C:\OSPanel\domains\yii\yiilite.php(8624): CDbConnection->setActive(true)
+#2 C:\OSPanel\domains\yii\yiilite.php(1080): CDbConnection->init()
+#3 C:\OSPanel\domains\yii\yiilite.php(1337): CModule->getComponent('db')
+#4 C:\OSPanel\domains\yii\yiilite.php(7680): CApplication->getDb()
+#5 C:\OSPanel\domains\yii\yiilite.php(7697): CActiveRecord->getDbConnection()
+#6 C:\OSPanel\domains\yii\yiilite.php(8203): CActiveRecord->getCommandBuilder()
+#7 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(256): CActiveRecord->exists('hidden>0 AND or...')
+#8 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(93): DApi->_registerTreemenu()
+#9 C:\OSPanel\domains\yii\yiilite.php(1080): DApi->init()
+#10 C:\OSPanel\domains\yii\yiilite.php(1147): CModule->getComponent('d')
+#11 C:\OSPanel\domains\yii\yiilite.php(1204): CModule->preloadComponents()
+#12 C:\OSPanel\domains\yii\yiilite.php(55): CApplication->__construct(Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(47): YiiBase::createApplication('CWebApplication', 'C:\\OSPanel\\doma...')
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): YiiBase::createWebApplication('C:\\OSPanel\\doma...')
+#15 {main}
+REQUEST_URI=/
+---
+2022/07/08 09:40:00 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'ecostil_pres_usr'@'localhost' (using password: YES) in C:\OSPanel\domains\yii\yiilite.php:8663
+Stack trace:
+#0 C:\OSPanel\domains\yii\yiilite.php(8635): CDbConnection->open()
+#1 C:\OSPanel\domains\yii\yiilite.php(8624): CDbConnection->setActive(true)
+#2 C:\OSPanel\domains\yii\yiilite.php(1080): CDbConnection->init()
+#3 C:\OSPanel\domains\yii\yiilite.php(1337): CModule->getComponent('db')
+#4 C:\OSPanel\domains\yii\yiilite.php(7680): CApplication->getDb()
+#5 C:\OSPanel\domains\yii\yiilite.php(7697): CActiveRecord->getDbConnection()
+#6 C:\OSPanel\domains\yii\yiilite.php(8203): CActiveRecord->getCommandBuilder()
+#7 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(256): CActiveRecord->exists('hidden>0 AND or...')
+#8 C:\OSPanel\domains\ecostil-prestizh.local\protected\components\DApi.php(93): DApi->_registerTreemenu()
+#9 C:\OSPanel\domains\yii\yiilite.php(1080): DApi->init()
+#10 C:\OSPanel\domains\yii\yiilite.php(1147): CModule->getComponent('d')
+#11 C:\OSPanel\domains\yii\yiilite.php(1204): CModule->preloadComponents()
+#12 C:\OSPanel\domains\yii\yiilite.php(55): CApplication->__construct(Array)
+#13 C:\OSPanel\domains\yii\yiilite.php(47): YiiBase::createApplication('CWebApplication', 'C:\\OSPanel\\doma...')
+#14 C:\OSPanel\domains\ecostil-prestizh.local\index.php(49): YiiBase::createWebApplication('C:\\OSPanel\\doma...')
+#15 {main}
+REQUEST_URI=/
+---
+2022/07/08 09:40:26 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/07/08 09:40:58 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)
+2022/07/12 16:00:39 [error] [application] Path not found: C:/OSPanel/domains/ecostil-prestizh.local/protected/modules/extend/modules/slider/widgets/assets/slider
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\helpers\HYii.php (245)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\common\components\base\Widget.php (159)
+in C:\OSPanel\domains\ecostil-prestizh.local\protected\modules\extend\modules\slider\widgets\Slider.php (130)

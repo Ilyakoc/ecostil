@@ -1,0 +1,18 @@
+.menu-arrow {
+  display: none;
+  margin-left: 5px;
+  margin-bottom: 0;
+  position: relative;
+  //display: flex;
+  align-items: flex-end;
+}
+
+.header-bottom__menu {
+  ul > li > ul li {
+    &:hover {
+      .menu-arrow {
+        transform: rotate(-90deg);
+      }
+    }
+  }
+}

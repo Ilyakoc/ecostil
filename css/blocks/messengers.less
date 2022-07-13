@@ -1,0 +1,37 @@
+.messengers {
+  display: flex;
+  margin-left: -3px;
+  margin-right: -3px;
+}
+
+.messengers__link {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 3px;
+  margin-left: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &.messengers__link--wa {
+    background-color: #25D366;
+    border: 1px solid #25D366;
+  }
+  &.messengers__link--tg {
+    background-color: #25A2E0;
+    border: 1px solid #25A2E0;
+  }
+  &.messengers__link--vb {
+    background-color: #7360F2;
+    border: 1px solid #7360F2;
+  }
+
+  svg {
+    transition: fill 0.35s ease;
+    fill: @white;
+  }
+  &:hover {
+    background-color: @primaryColor;
+    border-color: @primaryColor;
+  }
+}

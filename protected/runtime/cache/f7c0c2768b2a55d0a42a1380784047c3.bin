@@ -1,0 +1,60 @@
+a:2:{i:0;s:4068:"    <div class="slider-wrap">
+        <section class="slider">
+          <div class="catalog-menu">
+            <div class="catalog-menu__title">Каталог товаров</div>
+            	
+<ul class="shop-menu" id="yw2">
+<li class="shop-menu__sub"><a title="Женская одежда" href="/catalog/zhenskaya-odezhda">Женская одежда<span class="deploy"></span></a>
+<ul>
+<li><a title="Платья, костюмы" href="/catalog/zhenskaya-odezhda/platya">Платья, костюмы</a></li>
+<li><a title="Верхняя одежда" href="/catalog/zhenskaya-odezhda/verxnyaya-odezhda">Верхняя одежда</a></li>
+<li><a title="Лето 2022 / MEIMEIJ" href="/catalog/zhenskaya-odezhda/leto-2022-meimeij">Лето 2022 / MEIMEIJ</a></li>
+<li><a title="Купить пальто из кашемира женское, в Новосибирске  | Экостиль" href="/catalog/zhenskaya-odezhda/palto">Пальто</a></li>
+<li><a title="Брюки" href="/catalog/zhenskaya-odezhda/bryuki">Брюки</a></li>
+<li><a title="Юбки" href="/catalog/zhenskaya-odezhda/yubki">Юбки</a></li>
+<li><a title="Кардиганы" href="/catalog/zhenskaya-odezhda/palto-kardigany">Кардиганы</a></li>
+<li><a title="Джемпера " href="/catalog/zhenskaya-odezhda/dzhempera">Джемпера </a></li>
+<li><a title="Водолазки" href="/catalog/zhenskaya-odezhda/vodolazki">Водолазки</a></li>
+<li><a title="ЛЕТО 2021" href="/catalog/zhenskaya-odezhda/leto-2021">ЛЕТО 2021</a></li>
+</ul>
+</li>
+<li class="shop-menu__sub"><a title="Мужская одежда" href="/catalog/muzhskaya-odezhda">Мужская одежда<span class="deploy"></span></a>
+<ul>
+<li><a title="Костюмы" href="/catalog/muzhskaya-odezhda/kostyumy">Костюмы</a></li>
+<li><a title="Джемпера, кардиганы, жилеты" href="/catalog/muzhskaya-odezhda/dzhempera-kardegany-zhilety">Джемпера, кардиганы, жилеты</a></li>
+</ul>
+</li>
+<li><a title="Домашняя обувь" href="/catalog/domashnyaya-obuv">Домашняя обувь</a></li>
+<li class="shop-menu__sub"><a title="Аксессуары" href="/catalog/aksessuary">Аксессуары<span class="deploy"></span></a>
+<ul>
+<li><a title="Палантины, пашмины, накидки" href="/catalog/aksessuary/palantiny-pashminy-nakidki">Палантины, пашмины, накидки</a></li>
+<li><a title="Шапки" href="/catalog/aksessuary/shapki">Шапки</a></li>
+<li><a title="Аксессуары Fraas" href="/catalog/aksessuary/aksessuary-kollekcii-fraas">Аксессуары Fraas</a></li>
+</ul>
+</li>
+</ul>          </div>
+        <div class="slider-m__arrows">
+            <div class="slide-prev">
+                <img src="images/arrow-prev.svg" alt="">
+            </div>
+
+            <div class="slide-next">
+                <img src="images/arrow-next.svg" alt="">
+            </div>
+        </div>
+            <div class="slider__main slider__container">
+                                <div class="slider__main-item">
+                                            <!-- <a href="catalog/zhenskaya-odezhda/platya" class="slider__item"> -->
+                                            <div class="slider__img" style="background-image:url(/images/extend_modules_slider_models_slide/tmb__x__1_d7086428ba83.png)"
+                             alt="" title="">
+                          	<div class="container">
+                              	                                <div class="slider__item-textbox">
+                                                                            <div class="slider__item-header">Монгольский кашемир</div>
+                                                                                                        </div>
+                                                      	</div>
+                        </div>
+                    </a>
+                                        </div>
+                        </div>
+        </section>
+";i:1;N;}

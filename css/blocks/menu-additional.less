@@ -1,0 +1,41 @@
+.menu-additional {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-bottom: -10px;
+  &:hover {
+    &::before {
+      color: @accentColor;
+    }
+  }
+  &::before {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 10px;
+    content: '...';
+    color: @headerColor;
+    font-size: 50px;
+    padding-bottom: 35px;
+    position: relative;
+    top: -10px;
+    cursor: pointer;
+  }
+
+  & > ul {
+    left: auto !important;
+    right: 0;
+
+    & > li > a {
+      //font
+      //font-size: 14px;
+    }
+
+    ul {
+      position: absolute;
+      right: ~'calc(100% + 32px)';
+      left: auto !important;
+      top: -22px;
+    }
+  }
+}

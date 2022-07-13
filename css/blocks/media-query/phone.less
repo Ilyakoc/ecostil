@@ -1,0 +1,52 @@
+@media (max-width: 1199px) {
+  .phone-callback {
+    display: block;
+    text-align: right;
+  }
+  .header-top__feedback {
+    display: none;
+  }
+}
+
+
+@media (max-width: 992px) {
+  .phone--footer {
+    display: inline-flex;
+  }
+}
+
+@media (max-width: 768px) {
+  .phone__modal {
+    text-align: center;
+    left: auto;
+    right: -35px;
+    padding: 12px 15px 12px 15px;
+
+    & > * + * {
+      margin-top: 16px;
+    }
+
+    & > * {
+      &:last-child {
+        margin-bottom: 13px;
+      }
+
+      &:first-child {
+        margin-top: 13px;
+      }
+    }
+  }
+
+  .phone--footer {
+    display: inline-flex;
+    .phone__modal {
+      padding: 5px 15px 5px 8px;
+      left: -8px;
+      width: 172px;
+
+      a {
+        font-size: 14px;
+      }
+    }
+  }
+}

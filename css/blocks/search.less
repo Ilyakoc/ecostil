@@ -1,0 +1,154 @@
+.search {
+  &.search_in-page {
+    form {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      border: 1px solid #F5F4F4;
+
+      *:focus {
+        outline: none;
+      }
+
+      input {
+        width: 100%;
+        border: none;
+        padding: 22px 28px;
+      }
+
+      .search__button {
+        padding: 22px 28px;
+      }
+    }
+  }
+}
+
+.search__block {
+
+}
+
+.search-result__items {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-result__item {
+  display: flex;
+  flex-direction: row;
+  max-width: 1115px;
+  width: 100%;
+  border-bottom: 1px solid rgba(179, 179, 179, 0.3);
+  padding: 30px 0;
+
+  .search__number {
+    color: @searchItemNumberColor;
+    font-family: Lato, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    min-width: 50px;
+  }
+
+  .search__content {
+    display: flex;
+    flex-direction: column;
+
+    .search__title {
+      a {
+        font-family: Lato, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+      }
+    }
+
+    .search__text {
+      font-family: Roboto, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+    }
+  }
+}
+
+.search__toggle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.25s ease all;
+
+  &:hover {
+    svg {
+      fill: @accentColor;
+      transition: fill 0.3s linear;
+    }
+  }
+}
+
+.search__modal {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+  top: 100%;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  border: 1px solid #eee;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.35s ease all;
+  background-color: #fff;
+  *::placeholder {
+    color: @lightTextColor;
+  }
+
+  &--active {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+.search__form {
+  padding: 16px 65px;
+  position: relative;
+  display: flex;
+}
+
+.search__ico {
+  position: absolute;
+  left: 25px;
+  top: 50%;
+  transform: translateY(-50%) scaleX(-1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  svg {
+    fill: #B3B3B3;
+  }
+}
+
+.search__close {
+  cursor: pointer;
+  padding: 10px;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  &:hover {
+    svg {
+      fill: @primaryColor;
+    }
+  }
+
+  svg {
+    fill: @lightTextColor;
+  }
+}
+
+.search__input {
+  flex: auto;
+  border-color: transparent;
+}
+

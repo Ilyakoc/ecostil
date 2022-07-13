@@ -1,0 +1,49 @@
+.additional__contacts {
+  display: flex;
+  flex-direction: row;
+  font-family: @font-headers;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.additional__title {
+  font-family: Lato, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  color: @headingColor;
+  margin-bottom: 20px;
+}
+
+.additional__item {
+  display: flex;
+  flex-direction: row;
+  div p {
+    color: @textColor;
+  }
+
+  .svg-icon {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 50%;
+    border: 1px solid @primaryColor;
+    background-color: @primaryColor;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+    svg {
+      fill: @white;
+      transition: 0.35s ease all;
+    }
+  }
+
+  &.additional-address {
+    width: 500px;
+  }
+}

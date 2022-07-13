@@ -1,0 +1,35 @@
+@media (max-width: 1200px) {
+  .hamburger {
+    padding-bottom: 8px;
+    padding-top: 18px;
+  }
+}
+
+@media (max-width: 768px) {
+  .hamburger {
+    padding: 15px 10px 5px;
+  }
+
+  .hamburger__box {
+    width: 20px;
+    height: 17px;
+  }
+
+  .hamburger__inner {
+    width: 20px;
+    height: 3px;
+
+    &::before, &::after {
+      width: 20px;
+      height: 3px;
+    }
+
+    &::before {
+      top: -6px;
+    }
+
+    &::after {
+      bottom: -6px;
+    }
+  }
+}
